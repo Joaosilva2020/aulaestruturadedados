@@ -1,0 +1,39 @@
+1. Explique com suas palavras o que e uma fila em programacao.
+
+2. Qual e a principal regra de funcionamento de uma fila? Explique o conceito de FIFO.
+
+3. Crie uma fila vazia usando uma lista em Python.
+
+4. Adicione cinco elementos em uma fila usando o metodo append().
+
+5. Remova o primeiro elemento de uma fila usando pop(0) e exiba o valor removido.
+
+6. Crie um programa que adicione os numeros 10, 20, 30 e 40 em uma fila e depois exiba a fila completa.
+
+7. Crie um programa que remova todos os elementos de uma fila, um por vez, mostrando cada elemento removido.
+
+8. Faca um programa que verifique se uma fila esta vazia antes de remover um elemento.
+
+9. Crie uma fila com nomes de pessoas e mostre quem e o primeiro da fila.
+
+10. Faca um programa que leia cinco nomes digitados pelo usuario e armazene todos em uma fila.
+
+11. Depois de armazenar cinco nomes em uma fila, remova e exiba os nomes na mesma ordem em que foram digitados.
+
+12. Crie uma funcao chamada enfileirar(fila, valor) que adicione um valor ao final da fila.
+
+13. Crie uma funcao chamada desenfileirar(fila) que remova e retorne o primeiro elemento da fila.
+
+14. Crie uma funcao chamada primeiro(fila) que retorne o primeiro elemento da fila sem remove-lo.
+
+15. Crie uma funcao chamada esta_vazia(fila) que retorne True se a fila estiver vazia e False caso contrario.
+
+16. Faca um programa que simule uma fila de atendimento. O usuario deve poder adicionar pessoas e atender a primeira pessoa da fila.
+
+17. Crie um menu com as opcoes: enfileirar, desenfileirar, mostrar primeiro, mostrar fila e sair.
+
+18. Use uma fila para organizar a ordem de impressao de documentos digitados pelo usuario.
+
+19. Crie um programa que simule uma fila de senhas de atendimento, exibindo a senha chamada a cada atendimento.
+
+20. Pesquise uma situacao do mundo real em que o conceito de fila pode ser aplicado e escreva um exemplo em Python.

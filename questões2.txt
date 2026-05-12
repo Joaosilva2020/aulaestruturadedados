@@ -1,0 +1,39 @@
+1. Explique com suas palavras o que e uma arvore em estrutura de dados.
+
+2. O que e o no raiz de uma arvore? De um exemplo.
+
+3. Explique o que sao nos filhos em uma arvore.
+
+4. Explique o que e um no folha em uma arvore.
+
+5. Qual e a diferenca entre uma arvore e uma lista?
+
+6. Crie uma representacao simples de uma arvore usando dicionarios em Python.
+
+7. Crie uma arvore com um no raiz e dois filhos, depois exiba todos os valores.
+
+8. Crie uma arvore que represente uma familia com avo, filhos e netos.
+
+9. Explique o que e uma arvore binaria.
+
+10. Crie uma arvore binaria simples usando uma classe No em Python.
+
+11. Crie uma classe No com os atributos valor, esquerda e direita.
+
+12. Insira valores manualmente em uma arvore binaria e exiba o valor da raiz.
+
+13. Exiba o filho esquerdo e o filho direito da raiz de uma arvore binaria.
+
+14. Explique o que significa percorrer uma arvore.
+
+15. Pesquise e explique o percurso em pre-ordem.
+
+16. Pesquise e explique o percurso em ordem.
+
+17. Pesquise e explique o percurso em pos-ordem.
+
+18. Faca um programa que conte quantos nos existem em uma arvore binaria.
+
+19. Faca um programa que calcule a altura de uma arvore binaria.
+
+20. Pesquise uma situacao do mundo real em que o conceito de arvore pode ser aplicado e escreva um exemplo em Python.
