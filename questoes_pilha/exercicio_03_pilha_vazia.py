@@ -1,0 +1,3 @@
+pilha = []
+
+print(pilha)
